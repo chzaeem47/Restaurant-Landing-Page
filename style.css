@@ -135,7 +135,7 @@ text-shadow:
   display:inline-flex; align-items:center; gap:8px; font-size:13px; font-weight:600;
   color:var(--primary); letter-spacing:0.12em; text-transform:uppercase; margin-bottom:22px;
   background:rgba(255,90,31,0.08); padding:8px 16px; border-radius:100px;
-  font-family: serif; font-style: italic;width: 190px;
+  font-family: serif; font-style: italic;width: 270px;
 }
 .eyebrow::before{content:''; width:6px; height:6px; border-radius:50%; background:var(--primary); box-shadow:0 0 0 4px rgba(255,90,31,0.18);}
 .hero h1{
